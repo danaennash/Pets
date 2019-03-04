@@ -33,7 +33,7 @@ namespace Pets
 
                     Console.ReadKey();
                   
-                  Console.WriteLine("Press any key to continue...")
+                  Console.WriteLine("Press any key to continue...");
                  }
                 }
 }
