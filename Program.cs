@@ -31,7 +31,7 @@ namespace Pets
                     Console.WriteLine(cat1.getTag());
                     Console.WriteLine(cat1.meow(3));
                   
-                    Console.WriteLine("Press any key to continue...");
+                    Console.WriteLine("\nPress any key to continue...");
 
                     Console.ReadKey();
                   
