@@ -30,10 +30,11 @@ namespace Pets
                     Console.WriteLine("Weight: " + cat1.weight);
                     Console.WriteLine(cat1.getTag());
                     Console.WriteLine(cat1.meow(3));
+                  
+                    Console.WriteLine("Press any key to continue...");
 
                     Console.ReadKey();
                   
-                  Console.WriteLine("Press any key to continue...");
                  }
                 }
 }
